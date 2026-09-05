@@ -9,18 +9,18 @@ I'm a developer passionate about building **online judge systems**, **blockchain
 
 ## 🚀 Featured Project: [guwu-oj](https://github.com/alphadamn/guwu-oj)
 
-**谷物 OJ** — a Luogu-style online judge system built with Django & Bootstrap 5.[reference:0]
+**谷物 OJ** — a Luogu-style online judge system built with Django & Bootstrap 5. 
 
-> 🌐 Live Demo: [https://guwu.camluni.cn:8445/](https://guwu.camluni.cn:8445/)[reference:1]
+> 🌐 Website: [https://guwu.camluni.cn:8445/](https://guwu.camluni.cn:8445/)
 
 ### ✨ Features
 
-- **User System** — registration, login, profile management (avatar, nickname, bio), and user homepage showing submission history & solved problems[reference:2]
-- **Problem Set** — rich problem list with difficulty filtering (from 入门 to NOI), Markdown + LaTeX support for problem statements[reference:3][reference:4]
-- **Multi-language Submission** — supports C, C++, Python, Java, JavaScript, Go, Rust, Ruby, Kotlin, and Assembly[reference:5]
-- **Real-time Judging** — async evaluation with Docker-based sandbox, per-language lightweight images[reference:6]
-- **Leaderboard** — ranking by solved problems, with stats on submissions and pass rates[reference:7][reference:8]
-- **Admin Panel** — manage problems, users, and submissions[reference:9]
+- **User System** — registration, login, profile management (avatar, nickname, bio), and user homepage showing submission history & solved problems
+- **Problem Set** — rich problem list with difficulty filtering (from 入门 to NOI), Markdown + LaTeX support for problem statements
+- **Multi-language Submission** — supports C, C++, Python, Java, JavaScript, Go, Rust, Ruby, Kotlin, and Assembly
+- **Real-time Judging** — async evaluation with Docker-based sandbox, per-language lightweight images
+- **Leaderboard** — ranking by solved problems, with stats on submissions and pass rates
+- **Admin Panel** — manage problems, users, and submissions
 
 ### 🧱 Tech Stack
 
