@@ -11,7 +11,7 @@ I'm a developer passionate about building **online judge systems**, **blockchain
 
 **谷物 OJ** — a Luogu-style online judge system built with Django & Bootstrap 5. 
 
-> 🌐 Website: [https://guwu.camluni.cn:8445/](https://guwu.camluni.cn:8445/)
+> 🌐 Website: [https://guwu.camluni.cn/](https://guwu.camluni.cn/)
 
 ### ✨ Features
 
