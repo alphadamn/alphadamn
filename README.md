@@ -29,7 +29,7 @@ I'm a developer passionate about building **online judge systems**, **blockchain
 | Backend | Django |
 | Frontend | Bootstrap |
 | Database | PostgreSQL |
-| Cache & Queue | Redis + RQ |
+| Cache & Queue | Redis + Celery |
 | Sandbox | Docker |
 
 ---
@@ -46,7 +46,7 @@ A hard-fork from Bitcoin, welcoming contributors to explore and innovate on the 
 
 - **Languages:** Python, C++, JavaScript, Go, Rust
 - **Frameworks:** Django, Bootstrap
-- **Infra:** Docker, PostgreSQL, Redis, RQ
+- **Infra:** Docker, PostgreSQL, Redis, RQ, Celery
 - **Blockchain:** Bitcoin Core, C++
 
 ---
